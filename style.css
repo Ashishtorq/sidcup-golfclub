@@ -15,7 +15,7 @@ html, body{
     padding: 0 150px;
     display: flex; 
     align-items: center; /*handle on y axis*/
-    justify-content:flex-start;/*handle on x axis*/
+    justify-content:flex-start;/*handle on x axis.*/
     gap: 50px;
     position: fixed;
     z-index: 99; 
