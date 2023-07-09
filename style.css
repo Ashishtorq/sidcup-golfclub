@@ -13,12 +13,12 @@ html, body{
     height:145px;
     width: 100%;
     padding: 0 150px;
-    display: flex;
-    align-items: center;
-    justify-content:flex-start;
+    display: flex; 
+    align-items: center; /*handle on y axis*/
+    justify-content:flex-start;/*handle on x axis*/
     gap: 50px;
     position: fixed;
-    z-index: 99;
+    z-index: 99; 
 }
 #nav img {
     height: 75px;
